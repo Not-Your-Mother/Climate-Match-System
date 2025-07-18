@@ -14,7 +14,7 @@ Developed as part of a WGU capstone, the system integrates data cleaning, unsupe
   Applies K-means clustering to ZIP code temperature profiles and visualizes the results. Uses the cleaned `ten_year_avg_2008_2017.csv` dataset.
 
 - **`Climate_Match_App.ipynb`**  
-  A simple app-style interface that accepts a user’s ZIP code and displays matched ZIPs with similar climate patterns. Runs using the pre-clustered `clustered_ZIP_climates.csv` file only.
+  A simple console-based menu system that allows users to explore climate-matched metro areas by selecting from U.S. states or climate profiles. The system displays recommended metro areas with similar temperature patterns based on historical clustering data.
 
 ## Included Data Files
 
