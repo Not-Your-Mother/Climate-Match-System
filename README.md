@@ -1,8 +1,11 @@
 # Climate Match System
 
-This project recommends ideal relocation destinations based on climate preferences. It uses historical climate data to cluster ZIP code areas and match users to regions with similar average monthly temperature patterns.
+This project processes 36+ million climate records to recommend ideal relocation destinations based on climate preferences. It uses historical climate data to cluster ZIP code areas and match users to regions with similar average monthly temperature patterns.
 
 Developed as part of a WGU capstone, the system integrates data cleaning, unsupervised machine learning, and a basic user interface for interactive exploration.
+
+## Results/Performance
+The system successfully clustered ~10,000 ZIP codes into distinct climate profiles, enabling users to find locations with similar temperature patterns across the United States.
 
 ## Project Structure
 
@@ -26,10 +29,11 @@ Developed as part of a WGU capstone, the system integrates data cleaning, unsupe
 
 ## Technologies Used
 
-- Python (`pandas`, `scikit-learn`, `geopandas`)
-- K-means Clustering
-- Jupyter Notebooks
-- U.S. ZIP Code and Temperature Data
+* Python (`pandas`, `scikit-learn`, `geopandas`, `matplotlib`, `seaborn`)
+* R Script (for data conversion from .rds format)
+* K-means Clustering
+* Jupyter Notebooks
+* U.S. ZIP Code and Temperature Data
 
 ## Limitations
 
