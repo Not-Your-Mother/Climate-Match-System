@@ -11,7 +11,7 @@ The system successfully clustered ~10,000 ZIP codes into distinct climate profil
 
 - **`Scripted_data_cleaning.ipynb`**  
   Prepares the historical temperature dataset for clustering.  
-  _Note: This notebook requires raw climate data from UNC Dataverse (not included). For most users, start with Clustering_data.ipynb using the provided cleaned dataset._
+  _Note: This notebook requires raw climate data from UNC Dataverse (not included). The notebook demonstrates the data aggregation and transformation process used to prepare the dataset. For most users, start with Clustering_data.ipynb using the provided cleaned dataset._
 
 - **`Clustering_data.ipynb`**  
   Applies K-means clustering to ZIP code temperature profiles and visualizes the results. Uses the cleaned `ten_year_avg_2008_2017.csv` dataset.
