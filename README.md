@@ -4,6 +4,8 @@ This project processes 36+ million climate records to recommend ideal relocation
 
 Developed as part of a WGU capstone, the system integrates data cleaning, unsupervised machine learning, and a basic user interface for interactive exploration.
 
+[Google Colab link to run remote](https://colab.research.google.com/drive/161Yx9mFtIlotKRrYoVN8Sr9WWWJI3LsX?usp=sharing)
+
 
 ## Results/Performance
 The system successfully clustered ~10,000 ZIP codes into distinct climate profiles, enabling users to find locations with similar temperature patterns across the United States.
