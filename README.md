@@ -4,7 +4,7 @@ This project processes 36+ million climate records to recommend ideal relocation
 
 Developed as part of a WGU capstone, the system integrates data cleaning, unsupervised machine learning, and a basic user interface for interactive exploration.
 
-[Google Colab link to run remote](https://colab.research.google.com/drive/161Yx9mFtIlotKRrYoVN8Sr9WWWJI3LsX?usp=sharing)
+[Google Colab link to run remote](https://colab.research.google.com/drive/1gHCWOiS8NXMxMBzpV-uQfIk4kM_J8Njs?usp=sharing)
 
 
 ## Results/Performance
